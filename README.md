@@ -54,3 +54,5 @@ _________________________________________________________________
 3. MFCC      - Code to calculate MFCCs of speech waveform
 4. VOICEBOX  - Code to calculate MFCCs of speech waveform
 5. YIN       - Code to calculate Pitch of speech Waveform
+
+Note that the TIMIT database is not available on this GitHub account however changeing the addresses in the data folder allows the code to be used with any database
